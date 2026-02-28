@@ -133,15 +133,14 @@ Open in Android Studio → Sync Gradle → Run
 
 **System Architecture:**
 
-![Architecture Diagram](docs/architecture.png)
-*Explain your system architecture - components, data flow, tech stack interaction*
+
 
 **Application Workflow:**
 
-![Workflow](docs/workflow.png)
-*Add caption explaining your workflow*
 
----
+
+Uploading WhatsApp Video 2026-02-28 at 10.22.51 AM.mp4…
+
 
 
 ### For Hardware:
