@@ -2,27 +2,49 @@
   <img src="./img.png" alt="Project Banner" width="100%">
 </p>
 
-# [Project Name] 🎯
+# LUNARA – Smart Maternal Care & Emergency Monitoring System 🎯
 
 ## Basic Details
 
-### Team Name: [Name]
+### Team Name:CodebreakerZ
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
+- Member 1: Afreen Yusaf- ASET
+- Member 2: D Haritha - ASET
 
 ### Hosted Project Link
-[mention your project hosted link here]
+https://tink-her-hack-temp-brown.vercel.app/
 
 ### Project Description
-[2-3 lines about what your project does]
+LUNARA is a smart maternal healthcare monitoring system designed for rural women and ASHA workers.
+It tracks pregnancy health parameters, predicts risk levels, and enables real-time emergency alerts with sound notifications to healthcare workers.
+
 
 ### The Problem statement
-[What problem are you solving?]
 
+In rural areas:
+
+Pregnant women lack continuous health monitoring
+
+ASHA workers cannot track high-risk cases in real time
+
+Emergency alerts are delayed
+
+No centralized dashboard exists for maternal risk tracking
+
+
+This delay can cost lives.
 ### The Solution
-[How are you solving it?]
+LUNARA provides:
+
+✔ Health tracking (BP, Sugar, Hemoglobin, Weight)
+✔ Smart AI-based Pregnancy Risk Score (0–100)
+✔ Real-time Firebase emergency alerts
+✔ Admin (ASHA worker) dashboard with live alert sound
+✔ Data visualization using graphs
+✔ Trimester & due date tracking
+
+This creates a mini smart maternal monitoring ecosystem.
 
 ---
 
@@ -31,51 +53,71 @@
 ### Technologies/Components Used
 
 **For Software:**
-- Languages used: [e.g., JavaScript, Python, Java]
-- Frameworks used: [e.g., React, Django, Spring Boot]
-- Libraries used: [e.g., axios, pandas, JUnit]
-- Tools used: [e.g., VS Code, Git, Docker]
+- Languages used: Java
+- Frameworks used: Android SDK
+Database: Firebase Realtime Database
 
-**For Hardware:**
-- Main components: [List main components]
-- Specifications: [Technical specifications]
-- Tools required: [List tools needed]
+Libraries:
+
+MPAndroidChart (Graphs)
+
+Firebase SDK
+
+Android NotificationCompat
+
+
+Tools Used:
+
+Android Studio
+
+Firebase Console
+
+Git
+
 
 ---
 
 ## Features
 
-List the key features of your project:
-- Feature 1: [Description]
-- Feature 2: [Description]
-- Feature 3: [Description]
-- Feature 4: [Description]
+Pregnancy Week & Trimester Tracking
 
----
+🔹 Smart AI-based Risk Score (0–100)
+
+🔹 Circular Risk Indicator
+
+🔹 Health Parameter Graph Visualization
+
+🔹 Emergency Alert Button
+
+🔹 Real-time Firebase Sync
+
+🔹 Admin Dashboard (ASHA Worker Panel)
+
+🔹 Emergency Alert Sound on Admin Page
+
+🔹 Alert Clearing with Sound Stop
+
+🔹 Region-based Monitoring
+
+🔹 Due Date Prediction
 
 ## Implementation
+Installation
+
+git clone https://github.com/hariiharitha6/tink-her-hack-temp
+
+Open in Android Studio → Sync Gradle → Run
 
 ### For Software:
 
 #### Installation
-```bash
-[Installation commands - e.g., npm install, pip install -r requirements.txt]
-```
+`
 
 #### Run
 ```bash
 [Run commands - e.g., npm start, python app.py]
 ```
 
-### For Hardware:
-
-#### Components Required
-[List all components needed with specifications]
-
-#### Circuit Setup
-[Explain how to set up the circuit]
-
----
 
 ## Project Documentation
 
@@ -83,15 +125,10 @@ List the key features of your project:
 
 #### Screenshots (Add at least 3)
 
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
-
+![WhatsApp Image 2026-02-28 at 10 00 43 AM (1)](https://github.com/user-attachments/assets/6b68967f-29e3-4a2e-a20e-426cd32432a2)
+![WhatsApp Image 2026-02-28 at 10 00 44 AM](https://github.com/user-attachments/assets/cf5c90ec-5ce8-4a33-900a-8402f6b33091)
+![WhatsApp Image 2026-02-28 at 10 00 45 AM](https://github.com/user-attachments/assets/5de8c6ab-9588-47c2-b7db-c2f60d7045f9)
+![WhatsApp Image 2026-02-28 at 10 00 43 AM](https://github.com/user-attachments/assets/b76a2c9f-d56a-443f-abf2-054568d9c5e5)
 #### Diagrams
 
 **System Architecture:**
@@ -105,6 +142,7 @@ List the key features of your project:
 *Add caption explaining your workflow*
 
 ---
+
 
 ### For Hardware:
 
